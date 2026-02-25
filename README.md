@@ -29,6 +29,23 @@ Narayana Junior College, Bhimavaram
 Higher Secondary (MPC)
 CGPA: 7.13
 
+Projects:
+---
+Predicting Misleading Information in Social Media for Better Democracy
+
+| HTML, CSS, Bootstrap, Python, MySQL
+
+
+• Developed a fake news detection system to identify and classify misleading information in social media.
+
+• Implemented machine learning algorithms to predict the authenticity of news with high accuracy.
+
+• Designed and developed the frontend using HTML, CSS, and Bootstrap for an intuitive user experience.
+
+• Utilized MySQL for efficient storage and retrieval of news articles and user interactions.
+
+• Handled the complete project lifecycle as a sole developer, from design to deployment.
+
 Technical Skills:
 ----------------
 
