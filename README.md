@@ -29,7 +29,7 @@ Narayana Junior College, Bhimavaram
 Higher Secondary (MPC)
 CGPA: 7.13
 
-Projects:
+Project:
 ---
 
 Predicting Misleading Information in Social Media for Better Democracy
